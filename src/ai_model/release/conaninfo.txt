@@ -1,0 +1,31 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    os=Linux
+
+[requires]
+    boost/1.Y.Z
+    opencv/4.Y.Z
+    tensorrt/8.Y.Z
+
+[options]
+    shared=True
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    os=Linux
+
+[full_requires]
+    boost/1.65.1@tal/test:24647d9fe8ec489125dfbae4b3ebefaf7581674c
+    opencv/4.2.0@tal/test:24647d9fe8ec489125dfbae4b3ebefaf7581674c
+    tensorrt/8.0.1@tal/test:24647d9fe8ec489125dfbae4b3ebefaf7581674c
+
+[full_options]
+    shared=True
+
+[recipe_hash]
+
+
+[env]
+

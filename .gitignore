@@ -1,0 +1,4 @@
+src/ai_model/release/data/models/det_handwrite_erase_v1.0.8.trt
+src/ai_model/release/lib/libnvinfer.so
+src/ai_model/release/lib/libnvinfer.so.8.0.1
+src/ai_model/release/lib/libnvinfer.so.8
